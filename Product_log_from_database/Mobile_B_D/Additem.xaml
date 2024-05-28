@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_B_D.Additem">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Entry x:Name="titleField" Placeholder="Enter title"/>
+            <Editor x:Name="descField" Placeholder="Enter desc" HeightRequest="200"/>
+            <Entry x:Name="imageField" Placeholder="Enter image"/>
+            <Entry x:Name="priceField" Placeholder="Enter price"/>
+            <Button Text=" Add item" Clicked="AddItemButton" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

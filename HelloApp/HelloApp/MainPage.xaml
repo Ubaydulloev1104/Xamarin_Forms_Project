@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HelloApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0">
+            <Label Text="Добро пожаловать" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="10" >
+            <Label Text="Я не робить " HorizontalTextAlignment="Center" TextColor="Wheat" FontSize="Title" />
+        </Frame>
+        <CheckBox x:Name="Checkbox_1" Background="White" HorizontalOptions="Center"/>
+        <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0" >
+            <Label Text="Выберайте Ваш пол" HorizontalTextAlignment="Center" TextColor="White" FontSize="Title" />
+        </Frame>
+        <StackLayout Margin="20">
+        <Label Text="M" TextColor="Blue" FontSize="Title"/>
+            <RadioButton x:Name="radiobutton_1"  GroupName="n" Background="White"/>
+        <Label Text="J" TextColor="Red" FontSize="Title"/>
+            <RadioButton x:Name="radiobutton_2" GroupName="n" Background="White"/>
+        <Label Text="Напишите имя" TextColor="Red" FontSize="20" />
+            <Entry x:Name="Textbox_1" IsPassword="False" Placeholder="Azamjon"/>
+        </StackLayout>
+        <Label x:Name="Label_error" Margin="10,10,10,10" Text=" " TextColor="Red" FontSize="20" HorizontalTextAlignment="Start" />
+        <Button x:Name="botton_1" Clicked="botton_1_Clicked" Text="Clicke me " Background="#2196F3" Padding="10" CornerRadius="90" />
+    </StackLayout>
+
+</ContentPage>

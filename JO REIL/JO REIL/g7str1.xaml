@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JO_REIL.g7str1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout BackgroundColor="Black" Margin="0,0" Padding="0,0">
+                    <Label Text=" Глава 7. Бесполезная схватка. " TextColor="White" FontSize="18" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,20,10,20" FontAttributes="Bold"  />
+                    <Label Text=" Джо Реил и Тёмный мститель бились до последнего. Во время боя Тёмный мститель сказал ему:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Когда я закончу с тобой, я примусь за всех, кого ты любишь и ценишь. Я уничтожу тебя." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Тёмный мститель напрямую напал на него, Джо Реил воспользовался этим и уклоном влево, отрубил его правую руку и вонзил свой меч в правую ногу. Тёмный мститель пал на колени и спросил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Что? Убьешь меня, как убил моего отца." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" На что Джо Реил ответил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - У меня нет к тебе ненависти Акрам. На твоём месте любой бы поступил так. Но от мести никому пока не полегчало." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Откуда ты знаешь моё имя?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я знаю многое Акрам." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Джо Реил ударил и вырубил его. Джо Реил посмотрел вниз и увидел Филиссию, и команду, и заметил Ричарда в его костюме. Он посмотрел на Ричарда и прокричал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Молодец Ричи, так держать." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" На что Ричард ответил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Спасибо Джо. Твой костюм и вправду отличный. Да, ещё и удобный. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" В это время Брюс подошел сзади Джо Реил и хотел вонзить катану в него, но Джо Реил резко увернулся и схватил его за глотку. Он приподнял его и сказал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я же говорил. Встретимся ещё раз, я убью тебя медленно и болезненно." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Брюс, еле дыша, спросил его:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Так, кто ты такой на самом деле?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" На что Джо Реил ответил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я твоя карма." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" И сломал ему шею. Джо Реил спустился к Филиссии и к команде, и они взяли путь к своим домам. Пока они летели, Ричарда начал хвастаться, как он уложил целую банду этих злобных людей. По дороге они высадили Филиссию. Джо Реил подошел к ней и сказал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Филиссия…я не могу рисковать твоей жизнью. Думаю ты поймешь меня. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Филиссия сквозь слёзы ответила ему:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Что пойму? Ты же обещал!" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я обещал тебе уладить свои дела, а потом воссоединится с тобой, но как видишь, я ошибся. Мои дела намного большие, чем я думал. Нам стоит перестать видится на некоторое время. Прощай!" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Прошу! Не уходи!" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Филиссия осталась в слезах у ворот своего дома. Джо Реил тосковал весь путь и не сказал ни единого слова никому. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" К вечеру Филиссия написала ему сообщение, что хочет встретиться с ним в парке. Но Джо Реил не ответил ей. На следующий день Филиссия ожидала его на скамье, но Джо Реил не пришел. Джо Реил был неподалеку от неё. Он наблюдал за нею в машине. Слёзы так и хотели литься словно дождь, но он удерживал их силой. Артур внутри Джо Реил-а спросил его:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Почему бы тебе не подойти к ней? Ты же так сильно её любишь." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Люблю, Артур. Поэтому и не могу. Не хочу ставить её под угрозу снова." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Снова?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Потом объясню. А сейчас нас ждёт работа." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Побыстрее бы всё это кончилось." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Понаблюдав пару минут, Джо Реил отправился в очередное задание. К Филиссии присел старичок в странной и сказал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Мир, в котором мы живем совсем другой, не так ли? С виду наш мир красивый, а из внутри он прогнил уже давно. Добрых людей осталось совсем мало. А справедливость… справедливости уже не найти." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Но есть люди, которые борются за это. Они готовы рискнуть всем, ради спасения человечества." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - У вас есть такой знакомый?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Увы, есть." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Филиссия встала с места и пошла обратно домой. Старичок снял свою странную шляпу и сказал про себя:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - У вас ещё всё впереди Филиссия. Джо Реил со всем справится. Я в этом уверен." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Как бы не было печально, но эта история закончилась своеобразной трагедией. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Окончание: " TextColor="White" FontSize="18" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="15,100,10,10" FontAttributes="Bold"  />
+                    <Label Text=" На что только не идут люди. Ради того, чтобы сохранить жизнь любимых вам людей, парой приходится жертвовать собой. Так и поступил наш главный герой. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Какие бы вас не ждали преграды в жизни, никогда не нужно сдаваться. Всегда нужно двигаться по трудным путям, ведь концовка её сладка. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,100"  />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Button Text=" Назад " Clicked="Button7_Clicked" />
+                        <Button Text=" Меню "  Clicked="Butto7_Clicked_1"/>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

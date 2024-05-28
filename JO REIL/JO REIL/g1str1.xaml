@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JO_REIL.g1str1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout BackgroundColor="Black" Margin="0,0" Padding="0,0">
+                    <Label Text="Шакиров Ш. А." TextColor="White" FontSize="16" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,10,5,150" />
+                    <Label Text=" JO REIL " TextColor="White" FontSize="36" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,10,5,10" />
+                    <Label Text=" (ДЖО РЕИЛ) " TextColor="White" FontSize="36" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,5,5,50" />
+                    <Label Text=" Начало новой эры. " TextColor="White" FontSize="26" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,20,5,30" />
+                    <Label Text=" Тело создано лишь для одной души. " TextColor="White" FontSize="20" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,30,5,190" />
+                    <Label Text=" 2019 " TextColor="White" FontSize="22" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,20,5,20" />
+                    <Label Text=" ВВЕДЕНИЕ " TextColor="White" FontSize="22" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,10,5,20" />
+                    <Label Text="  Как думаете, что такое «Добро» и «Зло»? И как на самом деле идёт битва между ними? Жаль, что человечество не узнает об этом, но если оглянутся и присмотреться к окружающему нас миру, можно увидеть, лишь частичку их сражения. Мы не судьи и не нам решать, кто победитель в этой схватке, но у нас есть выбор выбирать сторону. Но есть одно «но», некоторые люди (Избранные) рождаются, чтоб решить этот вопрос. У них нет прав, ошибаться или отклоняться от этого бремени. Речь пойдёт о нашем герое, а точнее «Антигерое». " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10" />
+                    <Label Text="  Но есть одно «но», некоторые люди (Избранные) рождаются, чтоб решить этот вопрос. У них нет прав, ошибаться или отклоняться от этого бремени. Речь пойдёт о нашем герое, а точнее «Антигерое». " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,150"  />
+                    <Label Text="  Глава 1. Начало бесконечной истории. " TextColor="White" FontSize="18" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,20" FontAttributes="Bold"  />
+                    <Label Text="  Весна 2018-года. Девятиклассник Артур Эбиренс, со своими друзьями играл в футбол, он был вратарём своего класса. Один из игроков команды соперника ударил по мячу и попал прямо в лицо Артура. Артур вместе с мячом влетел во врата. Конец игры. Команда Артура проиграла. Артур сидел и горячился, но в это время ему подал руку его лучший друг Роберт. Он поднял его и сказал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Не горячись! Это всего лишь игра." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Чему Артур ответил: " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Ты прав! Это всего лишь игра. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Идём лучше домой. Наши родители уже наверняка заждались. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Идём! " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  После разговора они разошлись. По дороге домой, Артура остановил местный хулиган Руслан и просил у него денег: " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Гони деньги. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - У меня нет денег. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Так малой, если нет денег, тогда найди. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Я вам недолжен, отстаньте от меня. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Что ты сказал? " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Этот хулиган избил Артура и отпустил. Артур с синяком на глазах пришел домой. Он пытался скрыть синяк и незаметно зайти домой, но отец заметил его и позвал к себе. Отец спросил: " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Почему так поздно и что у тебя с лицом? " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Извини папа, я с друзьями заигрался. А синяки – это из-за мяча. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Понимаю сынок, в твоём возрасте это нормально. Но это не значит, что играть допоздна можно. Ты уже достаточно взрослый и умный мальчик. Пора бы тебе подумать о своём будущем. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Хорошо папа. Это больше не повторится. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Иди, поужинай и за уроки. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Хорошо! " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  На утро Артур пошел в школу, но Роберта не было. После уроков он пошёл к нему домой и узнал, что Роберт «Рак» и уже 3-ей стадии. Роберт скрывал это от Артура, он не хотел говорить об этом лучшему другу. После долгих разговоров Артур пошёл домой, но по дороге его снова остановил Руслан. Он снова начал выпрашивать деньги и снова получил тот же ответ.  Руслан только хотел ударить его, но этому помешал друг Руслана – Мирон. Мирон – человек с доброй душой, четный и дружелюбный. Он извинился перед Артуром и увел Руслана. В своё время Руслан тоже был хорошим парнем, а стал он таким из-за своего отца, который вечно был в кредитах. Артур вернулся домой хмурый и думал только о Роберте. Вдруг Артур услышал незнакомый голос в голове: " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Нужно двигаться. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Артур не знал, кого это голос, ведь в комнате кроме него никого не было. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Проходили дни и недели. Прошел месяц, Роберт и его родители улетели в Швейцарию для лечения болезни. Окончив 9-ый класс, Артур перевелся в другую школу, платную, с английским уклоном обучения. Там он познакомился с новыми одноклассниками, но оставался тем же тихоней, что и был тогда. Когда к Артуру подошла из одноклассниц по имени Филиссия Киочкова, этот незнакомый голос снова прозвучал: " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Это она! " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Филиссия хотела познакомиться с ним, но Артур, услышав этот голос, взволновался и отошел от неё. Вышло неловко с его стороны. Некоторые из его одноклассников дразнили Филиссию из-за её скромности и косички. Артур заступался за Филиссию, чтоб загладить свою вину. И в этой школе был свой хулиган по имени Григорий. Он больше всего обижал Филиссию и приставал к ней. Артур заступился за неё, но в ответ получил в глаз от Григория. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Апрель месяц, 2019-года. В эту школу напали отряд террористов, человек около 100 с лишним. Во главе всего стоял террорист по имени Мозес Ибрагим и его помощник по кличке Фариа. Заказчиком этого терроризма был мафиози Брюс Дэндл. У них была аппаратура, созданная со стороны доктора Дэвида Сэта. Эта аппаратура может превратить душевную силу в реальную. То есть, с помощью специального датчика эти террористы находили простых подавленных людей, которые копили всю злость внутри, а эта аппаратура превращала эту злость в реальную и управляемую силу. Когда датчик направили на Артура, он начал пищать от притока злости, что находилось у него внутри. Артура усадили на эту аппаратуру и начали подключать. Артур начинал паниковать, но в этот момент Мозес начал успокаивать его: " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  - Успокойся сосунок. Больно не будет. Ты лишь попадешь в тёмный Рай и встретишься со своей злобной половинкой. Если повезёт. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text="  Артур в этот момент снова услышал этот голос, он сказал: «Успокойся! Всё под контролем». " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,5,10,10"  />
+                    <Label Text="  Мозес включил аппаратуру, и оно начало дымится, а Артура бить током. Телосложение Артура начало изменятся. Его мышцы раздувались, а лицо и глаза начали менять свою форму. Он упал с аппаратуры. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Button Text=" Назад " Clicked="Button_Clicked" />
+                    <Button Text=" Меню "  Clicked="Button_Clicked_1"/>
+                    <Button Text=" Вперёд " Clicked="Button_Clicked_2" />
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

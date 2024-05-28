@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="weather.MainPage">
+
+    <StackLayout BackgroundColor="#ededed">
+        <StackLayout Background="#194880" >
+            <Button Text="about us" Clicked="Button_Clicked" TextColor="Black" FontAttributes="Bold" HorizontalOptions="End" BackgroundColor="#ededed" Margin="0,10,10,0"/>
+            <Label Text="Weather now" HorizontalOptions="Center" Margin="0,5,0,5" FontSize="30" TextColor="White" FontAttributes="Italic"/>
+            <Image Margin="0,0,0,40" Source="https://cdn-icons-png.flaticon.com/512/8595/8595796.png"/>
+        </StackLayout>
+        <RelativeLayout>
+            <Frame RelativeLayout.YConstraint="-40" BackgroundColor="Wheat" Margin="80,0" Padding="10" CornerRadius="10">
+                <StackLayout>
+                    <Entry x:Name="userInput" IsPassword="False" WidthRequest="200" Placeholder="Enter city..." PlaceholderColor="Black" TextColor="Black" />
+                    <Button x:Name="getWeather" Clicked="GetWeather_Clicked" Text="Get" BackgroundColor="#e6b035" TextColor="#8f6b19" FontAttributes="Bold"/>
+                </StackLayout>
+            </Frame>
+        </RelativeLayout>
+        <Label x:Name="result_country_Label" Text="" FontSize="27" HorizontalOptions="Start" TextColor="#333" Margin="20,0,5,5" FontAttributes="Bold"/>
+        <Label x:Name="result_weather_Label" Text="" FontSize="22" HorizontalOptions="Start" TextColor="#333" Margin="20,0,5,3"/>
+        <Label x:Name="result_temp_Label" Text="" FontSize="25" HorizontalOptions="Start" TextColor="#333" Margin="20,0,5,3"/>
+        <Label x:Name="result_tempfeels_like_Label" Text="" FontSize="25" HorizontalOptions="Start" TextColor="#333" Margin="20,0,5,3"/>
+        <Label x:Name="result_wind_Label" Text="" FontSize="25" HorizontalOptions="Start" TextColor="#333" Margin="20,0,5,3"/>
+        <Label x:Name="result_description_Label" Text="" FontSize="25" HorizontalOptions="Start" TextColor="#333" Margin="20,0,5,50"/>
+    </StackLayout>
+  
+</ContentPage>

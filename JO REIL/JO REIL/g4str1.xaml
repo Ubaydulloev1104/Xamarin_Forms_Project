@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JO_REIL.g4str1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout BackgroundColor="Black" Margin="0,0" Padding="0,0">
+                    <Label Text=" Глава 4. Хорошие времена " TextColor="White" FontSize="18" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,20,10,20" FontAttributes="Bold"  />
+                    <Label Text=" Джо Реил подвёз её и они договорились встретится вечером. К вечеру Джо Реил подъехал к дому Филиссии и встретил её с букетом белых роз. Они сели в машину и поехали Центральный парк. Немножко прогулявшись Джо Реил спросил у Филиссии:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Филиссия. А вот ты не чувствуешь себя как-то чужим для этого мира." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Нет. А что?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Просто у меня всегда такое чувство будто бы я уже не должен жить в этом мире. Будто я своё уже прожил. Но смерть назло не забирает меня." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Странное у тебя чувство." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Тебе нравятся рыцари, принцессы?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Даже очень. Я даже…" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Даже что?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Если я скажу, ты не рассмеешься?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Нет, конечно же." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я вижу сны. Будто бы я принцесса, какого-то незнакомого королевства, которого даже в истории нет. И нас атакуют демоны и монстры. Но спасает меня рыцарь в черном костюме." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Сон неплохой. Реалистичный." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Смеешься?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Нет. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Может по домам. А-то темнеет уже." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Согласен." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Они двигались в сторону выхода парка, пригородили им путь хулиганы и выпрашивали деньги, угрожая ножами. Но Джо Реил не растерялся и быстро обезвредил хулиганов. Он дал им немножко денег и выбросил их орудия в сближающее озеро. Хулиганы даже глазом моргнуть не успели, как он выхватил их орудия. Джо Реил провёл Филиссию до дома и на прощание сказал: " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Будь побдительнее, хорошо?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Хорошо. Пока." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Пока." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" И так они начали встречаться. Они встречались месяц, почти каждый день. Джо Реил показывал ей обычную жизнь без роскоши, возя её в обычные места города. Он научил ей самообороне и разным видам атак, чтоб она могла постоять за себя." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Пока Джо Реил хорошо проводил своё время с Филиссией, Брюс Дэндл уже готовился к побегу из тюрьмы агентства «The Dark Knight», и главная его миссия была найти и убить Джо Реил -а. Он не знал, кто скрывается под маской, но он знал, как можно вычесть этого человека. Тюрьма находилась под землями Сибири. Там держали особо разыскиваемых преступников. Спустя 5-лет люди Брюса нашли эту секретную тюрьму и освободили его, взорвав при этом всю тюрьму и не оставив никого в живых. Взорвав базу, они улетели на вертолёте в своё убежище, в Мексику. Там Брюса встретил сам доктор Дэвид Сэт. Он встретил его с большим сюрпризом, приготовив ему небольшую армию злых солдат. Особо злые солдаты, которые были готовы убить любого, кто встанет у них на пути. Они были полны яростью и готовы к любым миссиям. Но Брюс интересовался сыном Мозеса. Брюс спросил у доктора:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - А кто из них сын Мозеса?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Его здесь нет!" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Нет. Где он?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Мы решили не втягивать его." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Брюс разозлился и схватил его за глотку. Брюс спросил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - С какого перепугу вы не сделали из него такого солдата?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" На что доктор ответил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Он не готов идти против такого человека, как Карма." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Но он должен отомстить за своего отца. Не так ли?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Так, но он ещё не знает, что его отца убили. Мы не говорили ему об этом. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Брюс отпустил его и крикнул:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Что? Почему он ещё не знает об этом? " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Мозес любил своего сына и не желал ему такой жизни, какой жил он. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ну и тупицы вы. Немедленно приведите его ко мне. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Сына Мозеса звали Акрам. Вырос Акрам в хороших условиях, отец всегда выслушивал его и делал всё, чтобы его сын был счастлив. Но отец никогда не говорил ему о своей работе, и жена Мозеса тоже скрывала это от своего сына. Но, несмотря на это, Мозес обучал сына боевым искусствам. К 16 годам, Акраму сообщили, что его отец погиб в авиакатастрофе. Перенести эту утрату для него было сложно. После смерти Мозеса, Дэвид Сэт поддерживал его семью и снабжал деньгами и припасами. После окончании школы, Акрам поступил с Авиационный ВУЗ.  " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Button Text=" Назад " Clicked="Button4_Clicked" />
+                        <Button Text=" Меню "  Clicked="Butto4_Clicked_1"/>
+                        <Button Text=" Вперёд " Clicked="Button4_Clicked_2" />
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="weather.About_us">
+    <ContentPage.Content>
+        <StackLayout Margin="0,5,0,15" BackgroundColor="#ededed">
+            <Button Text="↵" TextColor="Black" Clicked="Button_Clicked" />
+            <Label Text="The Weather app is an application for smartphones (Android 5.0 to Android 12.0) and tablets that provides the user with weather information for any place on earth. It is based on the use of weather data from meteorological services and specialized Internet services (open weather.com)." 
+                   TextColor="Black"
+                   FontSize="17" 
+                   HorizontalTextAlignment="Start"
+                   Margin="10,5,10,10" />
+            <Label Text="The application allows you to find out the real temperature, humidity, wind speed and other indicators that confirm the current state of the weather in a certain area.The user can select the location for which he wants to know the weather." 
+                   TextColor="Black" 
+                   FontSize="17" 
+                   HorizontalTextAlignment="Start"
+                   Margin="10,0,10,10" />
+            <Label Text="The application has a friendly interface, is easy to manage and provides the most useful information for those who need accurate data on the current and future weather conditions." 
+                   TextColor="Black" 
+                   FontSize="17" 
+                   HorizontalTextAlignment="Start"
+                   Margin="10,0,10,10" />
+            <Label Text="Developers: Ubaidulloev A.Sh." 
+                   TextColor="Black" 
+                   FontSize="20" 
+                   HorizontalTextAlignment="Start"
+                   Margin="10,0,10,0" />
+            <Label Text="Contacts: (+992) 555-01-01" 
+                   TextColor="Black" 
+                   FontSize="20" 
+                   HorizontalTextAlignment="Start"
+                   Margin="10,0,10,0" />
+            <Label Text="Gmail : ubaydulloev.1104@gmail.com." 
+                   TextColor="Black" 
+                   FontSize="20" 
+                   HorizontalTextAlignment="Start"
+                   Margin="10,0,10,10" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

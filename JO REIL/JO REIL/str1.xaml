@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JO_REIL.str1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="Black" Margin="0,0" Padding="0,0">
+                <Label Text="JO REIL" TextColor="White" FontSize="30" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,10,5,50" />
+                <Button x:Name="Button1" Clicked="Button1_Clicked" Text="Глава 1. Начало бесконечной истории " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start"  />
+                <Button x:Name="Button2" Clicked="Button2_Clicked" Text="Глава 2. Перерождение " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start" />
+                <Button x:Name="Button3" Clicked="Button3_Clicked" Text="Глава 3. А время летит " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start" />
+                <Button x:Name="Button4" Clicked="Button4_Clicked" Text="Глава 4. Хорошие времена " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start" />
+                <Button x:Name="Button5" Clicked="Button5_Clicked" Text="Глава 5. Месть " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start" />
+                <Button x:Name="Button6" Clicked="Button6_Clicked" Text="Глава 6. План отдачи " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start" />
+                <Button x:Name="Button7" Clicked="Button7_Clicked" Text="Глава 7. Бесполезная схватка " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start" />
+                <Button x:Name="Button8" Clicked="Button8_Clicked" Text="Главная страница " TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,10,20,10" HorizontalOptions="Start" />
+
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>

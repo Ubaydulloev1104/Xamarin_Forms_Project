@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JO_REIL.MainPage">
+
+    <ScrollView>
+        <StackLayout BackgroundColor="Black">
+            <Label Text="JO REIL" TextColor="White" FontSize="30" HorizontalTextAlignment="Center" BackgroundColor="Black" Margin="0,10,5,100" />
+            <Button Text="JO REIL" Clicked="Button1_Clicked" TextColor="Wheat" BackgroundColor="#222" CornerRadius="90" Margin="20,20,20,20"/>
+            <Label Text="AUTHOR: Shakirov Shamil" TextColor="White" FontSize="20" FontAttributes="Italic" HorizontalTextAlignment="Center" Margin="4,300,5,3" />
+            <Label Text="APP Creator: Ubaydulloev A " TextColor="White" FontSize="20" FontAttributes="Italic" HorizontalTextAlignment="Center" Margin="5 ,5,0,10"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

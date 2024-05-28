@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JO_REIL.g6str1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout BackgroundColor="Black" Margin="0,0" Padding="0,0">
+                    <Label Text=" Глава 6. План отдачи. " TextColor="White" FontSize="18" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,20,10,20" FontAttributes="Bold"  />
+                    <Label Text="  Брюс посмотрел на Филиссию и вскрикнул:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Филиссия, давно не виделись. А ты намного подросла." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Дядя Брюс вы у нас дома. Вот уж не ожидала. Я думала вы сейчас в Великобритании, работаете не покладая рук." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Да, вот решил навестить вас и узнать, как вы тут поживаете?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - В такой поздний час?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ну, дела знаешь ли." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Отец Филиссии вмешался в их разговор и попросил дочь уйти в свою комнату. Брюс посмотрел на отца Филиссии и спросил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ты всё ещё зол на меня?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я не прощу твою выходку Брюс. Мы были лучшими друзьями, а ты напал на школу, в которой училась моя дочь. И без стыда приходишь в мой дом и просишь меня помощи." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Мне не нужна твоя помощь. Просто скажи, как зовут этого пацана, который якобы победил нас? Это же ты стёр о нём данные так?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я не скажу тебе ничего, убирайся с моего дома." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Акрам рассердился и приставил к нему нож. Филиссия подглядывала за ними и увидев это она прибежала защитить своего отца. Филиссия начала угрожать им полицией, но Брюс спросил у неё:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ладно Филиссия я отпущу твоего отца. Только скажи мне, как зовут того пацана, который победил нас? Я обещаю отпустить твоего отца. Ты только скажи нам его имя и всему этому придёт конец." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Отец Филиссии умолял намёками не называть его имени, но Филиссия не смогла смотреть на своего отца так и ответила сквозь слёзы:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Его зовут Артур. Артур Эбиренс. Прощу, отпустите моего отца. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" В этот момент Филиссии пришло сообщение от Джо Реил -а, а в контактах он был сохранён, как Артур. Брюс увидел контакт и прочёл сообщение:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - «Дорогая Филиссия. Я завтра не смогу встретиться с тобой и с твоим отцом. У меня вышли срочные дела, встретимся на следующей неделе». Артур. Значит ты встречаешься с ним?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Да! Прощу, оставьте нас в покое. Артур хороший человек. Он никому зла не желает." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Филиссия. Ты ещё не знаешь, на что он способен. Хотя, я могу показать его истинное лицо. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Брюс приказал связать Филиссию и взять её в качестве приманки. Он посмотрел на отца Филиссии и сказал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Раз наша дружба давно закончена, тогда сделай последнее одолжение. Передай этому Артуру, что я буду ждать его, одного, на вершине здания в Лос-Анджелесе. А на каком здании пусть он сам найдёт." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" На, что отец Филиссии ответил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Тебе конец Брюс. Я это тебе обещаю." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Брюс Дэндл взял в заложники Филиссию и убил всех телохранителей отца Филиссии. Наутро, отец Филиссии в слезах пришел в агентство и сообщил о вчерашнем происшествии Джо Реил-у. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Отец Филиссии, он же Дэвид Киочков. Работал, в агентстве уже более 10 лет. Но и о нём никто не знал, потому что называли его в агентстве по кличке Devil (Дьявол). " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Джо Реил, услышав рассказ Дэвида начал собираться. Он спустился в гараж, но по дороге его остановила его команда. Они пригородили путь, и Ричард прокричал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Мы тебя одного не отпустим. Если это вызов, то пойдем на его зов вместе." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ладно. Но при одном условии. Будете прикрывать меня с самолета. Если пригодитесь, я сам вас вызову." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Команда согласилась, и они вылетели в Лос-Анджелес. К 21:00 часам, Джо Реил заметил Тёмного мстителя на крыше проковочного места. Неподалеку от него стояли фургоны. Джо Реил почувствовал, что это западня, но увидев Филиссию рядом с ним он решил спустится один. Джо Реил приказал подождать его внизу, а сам спрыгнул с самолета на крышу к ним. Они приземлились неподалеку от парковки и ожидали следующего приказа. В руках Джо Реил - а были катаны, которые он столкнул в море. Он кинул их к Тёмному мстителю и сказал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Отпусти её и дерись со мной, как настоящий мужчина. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" В этот момент из фургонов вышли все остальные люди Брюса и в том числе оттуда же вышел сам Брюс. Брюс сказал Джо Реил -у:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ты умный малый, но не настолько." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Тёмный мститель отпустил Филиссию, и Филиссия подбежала к Джо Реил -у. Брюс удивился и спросил:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Зачем ты отпустил её?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" На что Тёмный мститель ответил." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Он предложил мне честный бой. А честь превыше всего." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Джо Реил посмотрел на Филиссию и сказал:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Закрой глаза. Тебе этого лучше не видеть. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" Брюс приказал своим людям напасть на Джо Реил -а, так и началась схватка. Защищая Филиссию, Джо Реил отбивал и Тёмного мстителя, и людей Брюса. За пару минут, Джо Реил положил всех людей Брюса. От трусости, Брюс вызвал подкрепление. На крыше остались лишь Джо Реил, Филиссия, Тёмный мститель и Брюс Дэндл. За спиной Брюса, Джо Реил заметил пожарную лестницу. За секунду, на большом расстоянии, Джо Реил загипнотизировал Брюса и сделал его неподвижным на пару минут. Этого времени Филиссии должно было хватит. Джо Реил начал биться с Тёмным мстителем. Тёмный мститель постоянно бился с яростью и во время боя повторял о том, что Джо Реил убил его невинного отца. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" В это время, к парковке начали подъезжать люди Брюса в фургонах. Увидев занятость Джо Реил-а, Ричард решил помочь и надел запасной костюм Джо Реил-а, который находился в капсуле самолета. Вся команда вооружилась и начала отбивать их. Ричард бесстрашно подбежал к ним и начал их рубить с помощью меча, который выделял его металл на рукаве. Пули костюм не брали. Поэтому Ричард мог свободно биться с ними. " TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Button Text=" Назад " Clicked="Button6_Clicked" />
+                        <Button Text=" Меню "  Clicked="Butto6_Clicked_1"/>
+                        <Button Text=" Вперёд " Clicked="Button6_Clicked_2"/>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

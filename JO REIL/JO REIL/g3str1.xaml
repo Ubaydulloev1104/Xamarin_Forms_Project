@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JO_REIL.g3str1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout BackgroundColor="Black" Margin="0,0" Padding="0,0">
+                    <Label Text="  Глава 3. А время летит. " TextColor="White" FontSize="18" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,20,10,20" FontAttributes="Bold"  />
+                    <Label Text="  5-лет спустя." TextColor="White" FontSize="12" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,5,10"  />
+                    <Label Text=" Джо Реил, возвращался домой спустя несколько лет из работы. Он усердно работал, чтобы истребить всё зло на Земле, но всё ещё не достиг своих целей. По радио он слушал новости, о сокращении терроризма за последние годы. Вдруг на дорогу выскочила девушка, Джо Реил вышел из машины, чтоб объяснить об правилах передвижения, но внезапно затвердел. Эта девушка была Филиссия. Они узнали друг друга и решили присесть в ближайшем кафе, чтоб обсудить всё прошедшее. Филиссия спросила Джо Реил -а:" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ну, что делал после окончания?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Да, так себе почти, что ничего. Окончил мед, работаю педиатром в Москве. А ты сама?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - А я окончила юридический университет. Сейчас потихоньку учусь управлять компанией отца." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Хорошо. И как называется компания?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - World Lion Enterprises." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Слышал о компании. С какими странами сотрудничаете?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Пока только с Россией, с Китаем, с Германией и Таджикистаном. В прошлом году договорились с США. Сейчас идут стройки здания. Примерно через пару месяцев закончат." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Неплохо. Можно задать вопрос?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Да. Конечно." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Раз под твоим руководством такая немалая фирма, то почему у тебя нет личного транспорта и телохранителей не видать." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - По правде я сбежала из этого дурдома нормально пообедать наедине." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Я тебе не мешаю?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Нет. Конечно же, нет. Просто из-за этой работы не остается времени нормально поесть, поспать. Да и вообще отдохнуть." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ну, это у тебя в крови.  Принцесса." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Что? Не расслышала, извини." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Говорю, привыкай к взрослой жизни." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Мдам. Ты прав." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Ну, ладно я пойду, пожалуй. А-то опаздываю кое-куда. Тебя подвезти?" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                    <Label Text=" - Хорошо. Я не против." TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Black" Margin="15,0,10,10"  />
+                 
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Button Text=" Назад " Clicked="Button3_Clicked" />
+                        <Button Text=" Меню "  Clicked="Butto3_Clicked_1"/>
+                        <Button Text=" Вперёд " Clicked="Button3_Clicked_2" />
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
